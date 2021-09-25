@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: about
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## uptownlabs 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### blogs | code on cloud, devops and chatops
 
-What else do you need?
+[![Github](https://img.shields.io/badge/github-profile-brightgreen.svg)](https://github.com/uptownaravi) 
 
-### My story
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harish-aravindan)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### dev.to blogs
+
+ [Helm Starter Chart](https://dev.to/harisharavindan/helm-starter-chart-m1j)
+
+:robot: [Pull Request Notifications on Slack](https://dev.to/harisharavindan/pull-request-notification-on-slack-using-aws-lambda-3m4l)
