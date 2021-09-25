@@ -11,9 +11,3 @@ subtitle: about
 [![Github](https://img.shields.io/badge/github-profile-brightgreen.svg)](https://github.com/uptownaravi) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/harish-aravindan)
-
-#### dev.to blogs
-
- [Helm Starter Chart](https://dev.to/harisharavindan/helm-starter-chart-m1j)
-
-:robot: [Pull Request Notifications on Slack](https://dev.to/harisharavindan/pull-request-notification-on-slack-using-aws-lambda-3m4l)
