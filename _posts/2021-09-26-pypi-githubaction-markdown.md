@@ -46,5 +46,5 @@ After the job run we can see our package in pypi webpage.
 ![pypi webpage](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvf78mqlan7iyfupklu7.png)
 
 
-### Note
-{: .box-note} if you notice the workflow file we can see a secret being used with in package upload. Add a GitHub secret called  PYPI_TOKEN which has the token from pypi account. Check https://pypi.org/help/#apitoken for steps to generate the token
+{: .box-note}
+**Note:** if you notice the workflow file we can see a secret being used with in package upload. Add a GitHub secret called  PYPI_TOKEN which has the token from pypi account. Check https://pypi.org/help/#apitoken for steps to generate the token
